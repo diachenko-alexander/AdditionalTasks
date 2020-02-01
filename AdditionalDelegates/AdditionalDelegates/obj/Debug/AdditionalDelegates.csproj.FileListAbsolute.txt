@@ -1,0 +1,6 @@
+C:\Users\Alex\source\repos\AdditionalDelegates\AdditionalDelegates\obj\Debug\AdditionalDelegates.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\AdditionalDelegates\AdditionalDelegates\bin\Debug\AdditionalDelegates.exe.config
+C:\Users\Alex\source\repos\AdditionalDelegates\AdditionalDelegates\bin\Debug\AdditionalDelegates.exe
+C:\Users\Alex\source\repos\AdditionalDelegates\AdditionalDelegates\bin\Debug\AdditionalDelegates.pdb
+C:\Users\Alex\source\repos\AdditionalDelegates\AdditionalDelegates\obj\Debug\AdditionalDelegates.exe
+C:\Users\Alex\source\repos\AdditionalDelegates\AdditionalDelegates\obj\Debug\AdditionalDelegates.pdb
