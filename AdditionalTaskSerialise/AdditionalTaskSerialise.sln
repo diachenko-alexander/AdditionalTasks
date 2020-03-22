@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionalTaskSerialise", "AdditionalTaskSerialise\AdditionalTaskSerialise.csproj", "{19308C4A-5FD9-4132-832F-2E497368EA0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19308C4A-5FD9-4132-832F-2E497368EA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19308C4A-5FD9-4132-832F-2E497368EA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19308C4A-5FD9-4132-832F-2E497368EA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19308C4A-5FD9-4132-832F-2E497368EA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAEE7F25-8690-4033-8447-C6287CE13FA0}
+	EndGlobalSection
+EndGlobal

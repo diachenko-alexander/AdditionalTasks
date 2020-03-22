@@ -1,0 +1,9 @@
+C:\Users\Alex\source\repos\AdditionalTaskSerialise\AdditionalTaskSerialise\bin\Debug\AdditionalTaskSerialise.exe.config
+C:\Users\Alex\source\repos\AdditionalTaskSerialise\AdditionalTaskSerialise\bin\Debug\AdditionalTaskSerialise.exe
+C:\Users\Alex\source\repos\AdditionalTaskSerialise\AdditionalTaskSerialise\bin\Debug\AdditionalTaskSerialise.pdb
+C:\Users\Alex\source\repos\AdditionalTaskSerialise\AdditionalTaskSerialise\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\source\repos\AdditionalTaskSerialise\AdditionalTaskSerialise\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\source\repos\AdditionalTaskSerialise\AdditionalTaskSerialise\obj\Debug\AdditionalTaskSerialise.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\AdditionalTaskSerialise\AdditionalTaskSerialise\obj\Debug\AdditionalTaskSerialise.csproj.CopyComplete
+C:\Users\Alex\source\repos\AdditionalTaskSerialise\AdditionalTaskSerialise\obj\Debug\AdditionalTaskSerialise.exe
+C:\Users\Alex\source\repos\AdditionalTaskSerialise\AdditionalTaskSerialise\obj\Debug\AdditionalTaskSerialise.pdb
